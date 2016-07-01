@@ -1,0 +1,32 @@
+{
+  "name": "slide-module",
+  "description": "Mobile Friendly JQuery Slide Module",
+  "main": "slide.js",
+  "authors": [
+    "github.com/jayjnu"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "slide",
+    "slider",
+    "swipe"
+  ],
+  "homepage": "https://github.com/jayjnu/slide-module",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "normalize-css": "normalize.css#^4.2.0"
+  },
+  "install": {
+    "path": {
+      "css": "src/css",
+      "js": "src/js"
+    }
+  }
+}

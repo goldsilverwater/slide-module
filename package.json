@@ -1,0 +1,30 @@
+{
+  "name": "slide-module",
+  "version": "1.0.0",
+  "description": "Mobile Friendly JQuery Slide Module",
+  "main": "slide.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayjnu/slide-module.git"
+  },
+  "keywords": [
+    "slide",
+    "slider",
+    "swipe"
+  ],
+  "author": "github.com/jayjnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayjnu/slide-module/issues"
+  },
+  "homepage": "https://github.com/jayjnu/slide-module#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
